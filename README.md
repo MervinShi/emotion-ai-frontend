@@ -25,7 +25,7 @@
 ### 安装步骤
 
 1. 克隆此仓库
-git clone https://github.com/yourusername/emotion-ai-frontend.git
+git clone https://github.com/MervinShi/emotion-ai-frontend.git
 cd emotion-ai-frontend
 
 2. 安装依赖
